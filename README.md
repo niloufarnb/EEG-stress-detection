@@ -2,7 +2,7 @@
 
 ![Confusion Matrix](confusion_matrix.png)
 
-A **minimal, beginner‑friendly** MATLAB pipeline that classifies relaxed vs stress states from the public **EEG‑S (Feeling Emotions)** dataset on Kaggle. It averages alpha, beta and theta band‑power features, trains a bagged‑trees (Random‑Forest‑style) classifier, visualises a confusion matrix, and saves a ready‑to‑deploy model.
+A **minimal** MATLAB pipeline that classifies relaxed vs stress states from the public **EEG‑S (Feeling Emotions)** dataset on Kaggle. It averages alpha, beta and theta band‑power features, trains a bagged‑trees (Random‑Forest‑style) classifier, visualises a confusion matrix, and saves a ready‑to‑deploy model.
 
 ## 📊 Model overview
 
